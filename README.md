@@ -12,6 +12,7 @@ The purpose of this app is to:
 - The app has button functions for user interactions
 - It has a storage function to store the player high score
 - The app has a quiz to test the what the user learned from the info page.
+- Repeated use of the storage function for the highscore
 
 ## Resources Used
 Below are the resources and references used during development:
