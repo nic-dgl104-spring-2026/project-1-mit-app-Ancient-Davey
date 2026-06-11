@@ -23,9 +23,15 @@ Below are the resources and references used during development:
 ## Development Process Summary
 I started by deciding to make a quiz app because it’s a good way to practice user interaction and logic.
 
-First, I worked in the Designer view to build the layout. I added labels for questions, buttons for answers, and arranged everything so it looked clean and easy to understand.
+I didn't know where to start so I grabbed a tutorial from MIT app inventor and followed its instructions for the base app.
 
-After that, I moved to the Blocks editor, where I built the logic for the app. I created events for each button so that when a user taps an answer, the app checks if it’s correct and responds accordingly. I also added logic to move between questions and keep track of the score.
+<img width="1334" height="843" alt="Screenshot 2026-06-11 092759" src="https://github.com/user-attachments/assets/9679023d-4996-446b-9188-457a5e630f9b" />
+
+
+After that, I moved to the Blocks editor, where I modifies some of the logic for the app. The  events for each button worked as intended so that when a user taps an answer, the app checks if it’s correct and responds accordingly. I also added logic to move between questions and keep track of the score.
+
+<img width="826" height="694" alt="Screenshot 2026-06-11 092919" src="https://github.com/user-attachments/assets/a33e8646-cf77-4ecf-b08b-b0dda1eb58b0" />
+
 
 Throughout the process, I tested the app using the AI Companion to make sure everything worked properly. When something didn’t work, I fixed the logic step by step until it behaved correctly.
 
