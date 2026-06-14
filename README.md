@@ -55,6 +55,7 @@ Key observations:
 - Improved readability and structure
 - Made sure all the components worked
 - Added a reset High Score button for testing purposes
+- Added an info page for the quiz
 
 ## What I learned:
 
