@@ -54,6 +54,7 @@ Key observations:
 - Removed unused components or blocks
 - Improved readability and structure
 - Made sure all the components worked
+- Added a reset High Score button for testing purposes
 
 ## What I learned:
 
